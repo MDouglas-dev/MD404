@@ -33,7 +33,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 A página MD404 redireciona o usuário para a página inicial.
 
-- [Acesse o projeto finalizado, online](https://maladro2010.github.io/MD404/)
+- [Acesse o projeto finalizado, online](https://MDouglas-dev.github.io/MD404/)
 
 ## 🔖 Layout
 
